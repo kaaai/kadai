@@ -1,9 +1,10 @@
-h1{
-  color: red;
-  &:hover{
-    color: blue;
-  }
+html{
+  background-color: #ccc;
+  text-align: center;
 }
-div{
-  background-color: antiquewhite;
+h2{
+  color: blanchedalmond;
+  &:hover{
+    color:#fff;
+  }
 }
